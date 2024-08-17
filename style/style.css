@@ -137,7 +137,6 @@
 .section-two {
   max-width: 1200px;
   margin: 0 auto;
-  /* color: white; */
   background-color: black;
 }
 .flex-bnm {
@@ -342,7 +341,6 @@
 .right-section {
   max-width: 1200px;
   margin: 0 auto;
-  /* display: flex; */
 }
 .right-section img {
   width: 50%;
